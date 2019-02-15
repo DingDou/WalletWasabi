@@ -13,7 +13,7 @@ namespace WalletWasabi.Gui.Tabs
 Legal statement of Wasabi Wallet
 The purpose of Wasabi Wallet is to provide privacy for its users’ Bitcoin transactions. This means that with the use of the wallet we would like to enable the users to make Bitcoin payments in a way that their spending history, address balances, etc. are not visible for the receiver party. This does not necessarily mean that the user stays anonymous, since the receiver party might have to identify the sending party.
 Our goal is to minimize the leaked financial private information to third parties and the receiver itself.
-zkSNAKCs Ltd., the owner and creator of Wasabi Wallet only supports behaviour that is legally acceptable by Gibraltarian and international legal standards and strictly rejects any kinds of illegal activities. If needed zkSNACKs Ltd. closely cooperates with law enforcement agencies up to its possible resources.
+zkSNACKs Ltd., the owner and creator of Wasabi Wallet only supports behaviour that is legally acceptable by Gibraltarian and international legal standards and strictly rejects any kinds of illegal activities. If needed zkSNACKs Ltd. closely cooperates with law enforcement agencies up to its possible resources.
 
 INFORMATION PROVIDED
 ====================
